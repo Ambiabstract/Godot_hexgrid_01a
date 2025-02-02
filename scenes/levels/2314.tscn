@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://blc2ckevhpydr"]
+
+[ext_resource type="PackedScene" uid="uid://cqpvcyis2iojg" path="res://scenes/levels/hex_gen_01a.tscn" id="1_oxeo8"]
+
+[node name="2314" type="Node3D"]
+
+[node name="HexGen01a" parent="." instance=ExtResource("1_oxeo8")]

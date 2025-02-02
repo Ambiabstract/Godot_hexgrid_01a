@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://pju57tq2qhu"]
+
+[node name="Hextextinst" type="Node3D"]
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="."]
+sides = 3
